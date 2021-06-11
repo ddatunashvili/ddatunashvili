@@ -1,6 +1,5 @@
 ### Hi there 👋, Davit Datunasvili
 #### Web Design and  Development
-![Web Design and  Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 My name is Davit Datunsahvili I'm a Front End Developer based in Georgia ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
