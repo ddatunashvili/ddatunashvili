@@ -7,7 +7,7 @@ Aside from my job, I like to create and contribute to open source projects. That
 
 In my free time you can find me at billiards club 🎱  , at the library 📘, at the gym 🏋️ , or on tech meetups aound Tbilisi 🗺
 
-Skills: 
+## Skills: 
 * 💻 HTML , CSS , JS
 * 🗃️ Git
 * 🎨 photoshop
@@ -19,7 +19,8 @@ Skills:
     *  Seaborn
     *  Matplotlib
     *  Selenium
-    
+## Examples of Work:
+<img src=""/>
 - 🔭 I’m currently working on Freelancing 
 - 🌱 I’m currently learning Angular js framework 
 
