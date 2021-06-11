@@ -1,5 +1,5 @@
-### Hi there 👋, Davit Datunasvili
-#### Web Design and  Development
+# Davit Datunasvili
+# Junior Web Designer and  Developer
 
 My name is Davit Datunsahvili I'm a Front End Developer based in Georgia ☀️. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
 
@@ -7,8 +7,19 @@ Aside from my job, I like to create and contribute to open source projects. That
 
 In my free time you can find me at billiards club 🎱  , at the library 📘, at the gym 🏋️ , or on tech meetups aound Tbilisi 🗺
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: 
+* 💻 HTML , CSS , JS
+* 🗃️ Git
+* 🎨 photoshop
+* 🖌️ Inkscape   
 
+* 🐍 Python 
+    *  Pandas
+    *  Numpy
+    *  Seaborn
+    *  Matplotlib
+    *  Selenium
+    
 - 🔭 I’m currently working on Freelancing 
 - 🌱 I’m currently learning Angular js framework 
 
