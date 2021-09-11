@@ -19,11 +19,8 @@ In my free time you can find me at billiards club 🎱  , at the library 📘, a
     *  Seaborn
     *  Matplotlib
     *  Selenium
-## Examples of Work:
-<img src=""/>
+## Work:
 - 🔭 I’m currently working on Freelancing 
-- 🌱 I’m currently learning Angular js framework 
+- 🌱 I’m currently learning react js framework 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ddatunashvili)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ddatunashvili/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ddatunashvili)  
 
