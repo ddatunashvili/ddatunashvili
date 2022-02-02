@@ -16,6 +16,7 @@ at the library 📘, at the gym 🏋️ , or on tech meetups aound Tbilisi 🗺
 * 🎨 Photoshop
 * 🖌️ Inkscape   
 * 🌈 Figma
+* 🖖 Canva   
 
 * 🐍 Python 
     *  flask
@@ -25,7 +26,20 @@ at the library 📘, at the gym 🏋️ , or on tech meetups aound Tbilisi 🗺
     *  Matplotlib
     *  Selenium
     *  beautifulsoup
+
+* 🖼️ Wordpress
+    * Elementor
+    * wp-bakery
+    * Contact Form 7
+    * Jetpack
+    * Google Analytics
+    * UpdraftPlus
+    * SEMRush
+    * LiveChat
+    * WP Mail SMTP
     
+
+        
 ## Work:
 - 🔭 I’m currently working as a Front  end developer 
 - 🌱 I’m currently learning react js framework 
