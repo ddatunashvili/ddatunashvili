@@ -1,5 +1,5 @@
 # Davit Datunasvili
-## Junior Web Designer and  Developer
+## Junior Web Designer and  Python Developer
 
 My name is Davit Datunsahvili I'm a Front End Developer based in Georgia ☀️. 
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
