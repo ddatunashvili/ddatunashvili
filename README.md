@@ -1,1 +1,62 @@
-<embed src="https://ddatunashvili.github.io/ddatunashvili/"></embed>
+
+# Davit Datunasvili
+
+<iframe 
+  width="660"
+  height="375"
+  src="https://www.youtube.com/embed/D4QoQWboM-U"
+  frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+## Web Designer and  Python Developer
+
+My name is Davit Datunsahvili I'm a Front End Developer based in Georgia ☀️. 
+I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+
+Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, 
+grow as a developer and support other open source projects. Also I enjoy making programming videos on Youtube.
+
+In my free time you can find me at billiards club 🎱
+
+
+
+## Skills: 
+* 🐍 Python 
+    *  flask
+    *  Pandas
+    *  Numpy
+    *  Seaborn
+    *  Matplotlib
+    *  Selenium
+    *  beautifulsoup
+    
+* 🖼️ Wordpress
+    * Elementor
+    * wp-bakery
+    * Contact Form 7
+    * Jetpack
+    * Google Analytics
+    * UpdraftPlus
+    * SEMRush
+    * LiveChat
+    * WP Mail SMTP
+    
+* 💻 HTML , CSS , JS , jquery
+* 🗃️ Git
+* 🎨 Photoshop
+* 🖌️ Inkscape   
+* 🌈 Figma
+* 🖖 Canva   
+
+
+
+    
+
+        
+## Work:
+- 🔭 I’m currently working as a Front  end developer at Faroutsolutions
+- 🌱 I’m currently learning react js framework 
+
+
