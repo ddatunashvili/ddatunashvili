@@ -1,1 +1,1 @@
-<object data="https://ddatunashvili.github.io/ddatunashvili/"></object>
+<embed src="https://ddatunashvili.github.io/ddatunashvili/"></embed>
