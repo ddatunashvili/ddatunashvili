@@ -1,15 +1,3 @@
-#
-# Copyright (c) 2006-2022 Wade Alcorn - wade@bindshell.net
-# Browser Exploitation Framework (BeEF) - http://beefproject.com
-# See the file 'doc/COPYING' for copying permission
-#
-beef:
-    module:
-        iframe_above:
-            enable: true
-            category: "Persistence"
-            name: "Create Foreground iFrame"
-            description: "Rewrites all links on the webpage to spawn a 100% by 100% iFrame with a source relative to the selected link."
-            authors: ["passbe"]
-            target:
-                user_notify: ["ALL"]
+html: "<iframe width=\"1920\" height=\"1080\" 
+src=\"/https://www.youtube.com/embed/dT2owtxkU8k\" frameborder=\"0\" 
+allowfullscreen></iframe>"
