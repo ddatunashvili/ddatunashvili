@@ -1,1 +1,1 @@
-<iframe src="https://ddatunashvili.github.io/ddatunashvili/"></iframe>
+<object data="https://ddatunashvili.github.io/ddatunashvili/"></object>
