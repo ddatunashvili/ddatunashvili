@@ -4,7 +4,7 @@
 
 
 ## Web Designer and  Python Developer
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&theme=algolia&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&theme=tokyonight&show_icons=true)
 
 
 
