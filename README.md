@@ -4,6 +4,9 @@
 
 
 ## Web Designer and  Python Developer
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&theme=algolia&show_icons=true)
+
+
 
 My name is Davit Datunsahvili I'm a Front End Developer based in Georgia ☀️. 
 I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
