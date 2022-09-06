@@ -4,8 +4,6 @@
 
 
 ## Web Designer and  Python Developer
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&theme=tokyonight&show_icons=true)
-
 
 
 My name is Davit Datunsahvili I'm a Front End Developer based in Georgia ☀️. 
