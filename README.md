@@ -14,6 +14,17 @@ grow as a developer and support other open source projects. Also I enjoy making 
 
 In my free time you can find me at billiards club 🎱
 
+**contact me:**
+
+<a href="https://www.linkedin.com/in/ddatunashvili/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/ddatunashvilii"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&layout=compact)](https://github.com/yushi1007)
+
+
 
 
 ## Skills: 
