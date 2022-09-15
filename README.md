@@ -1,8 +1,4 @@
 
-# Davit Datunasvili
-
-
-
 ## Web Designer and  Python Developer
 
 
