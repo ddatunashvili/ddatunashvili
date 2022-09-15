@@ -21,12 +21,9 @@ In my free time you can find me at billiards club 🎱
 <a href="https://instagram.com/ddatunashvilii"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="41px"/></a>
 </div>
 
-
 <br><br>
 ## Discord Server
 <a href="https://discord.gg/RxCPTMVy8Z"><img align="center" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/></a>
-
-
 
 <br><br>
 ## Stats
