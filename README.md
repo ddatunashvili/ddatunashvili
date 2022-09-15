@@ -24,8 +24,7 @@ In my free time you can find me at billiards club 🎱
 <br><br>
 ## Discord Server
 <a href="https://discord.gg/RxCPTMVy8Z"><img align="center" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/></a>
-
-<br><br>
+<br>
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&layout=compact)](https://github.com/yushi1007)
 
