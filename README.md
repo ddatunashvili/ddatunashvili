@@ -18,8 +18,7 @@ In my free time you can find me at billiards club 🎱
 
 <br><br>
 ## Discord Server and YouTube channel
-<a href="https://discord.gg/RxCPTMVy8Z"><img align="center" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/></a>
-<br>
+<a href="https://discord.gg/RxCPTMVy8Z"><img align="center" width="41px" style="margin-right:20px;"  src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/></a>
 <a href="https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ"><img align="center" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png"/></a>
 <br>
 ## Stats
