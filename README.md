@@ -31,10 +31,12 @@ In my free time you can find me at billiards club 🎱
 <br>
 <br>
 
-## Stats
+## stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&layout=compact)](https://github.com/yushi1007) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6&hide=jupyter%20notebook&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6&hide=jupyter%20notebook&theme=radical) 
 
 
 
