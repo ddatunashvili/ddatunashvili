@@ -1,4 +1,4 @@
-## W38 D35!9n3r, Py7h0n D3v310p3r 4nd Pr0f3550r 47 !1!4 57473  un!v3r5!7y
+## W38 D3si9n3r, Pyth0n D3v310p3r 4nd Pr0f3ss0r 4t i1i4 st4t3  univ3rsity
 
 <br>
 My name is Davit Datunsahvili, a passionate Front End Developer based in Georgia🇬🇪. 
