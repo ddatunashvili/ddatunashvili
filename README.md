@@ -1,8 +1,10 @@
+## W38 D35!9n3r, Py7h0n D3v310p3r 4nd Pr0f3550r 47 !1!4 57473  un!v3r5!7y
 
-## Web Designer, Python Developer and Professor at Ilia state  university
 <br>
-My n4m3 !5 D4v!7 D47un54hv!1!, 4 p455!0n473 Fr0n7 3nd D3v310p3r 8453d !n 930r9!4🇬🇪. 
-My 3xp3r7!53 1!35 !n (0d!n9, 0p3n 50ur(3 73(hn0109!35, 4nd 7h3 w38 p147f0rm.
+My name is Davit Datunsahvili, a passionate Front End Developer based in Georgia🇬🇪. 
+My expertise lies in coding, open source technologies, and the web platform.
+
+
 
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, 
 grow as a developer and support other open source projects. Also I enjoy making programming videos on Youtube.
