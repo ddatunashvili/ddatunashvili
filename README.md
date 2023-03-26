@@ -39,7 +39,7 @@ In my free time you can find me at billiards club 🎱
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%20notebook&show=vue&theme=radical)  -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6&hide=jupyter%20notebook&show=vue&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%20notebook&show=vue&theme=radical) 
 
 
 
