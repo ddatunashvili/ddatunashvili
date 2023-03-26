@@ -45,7 +45,6 @@ In my free time you can find me at billiards club 🎱
 
 
 
-
 ## Skills: 
 * 🐍 Python 
     *  flask
