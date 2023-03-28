@@ -39,9 +39,9 @@ In my free time you can find me at billiards club 🎱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&show_icons=true&theme=radical) 
 
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%20notebook&show=vue&theme=radical)  -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%20notebook&show=vue&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%hide=notebook&show=vue&theme=radical) 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%hide=notebook&show=vue&theme=radical)  -->
 
 
 
