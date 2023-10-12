@@ -1,15 +1,15 @@
-## W38 D3si9n3r, Pyth0n D3v310p3r 4nd Pr0f3ss0r 4t i1i4 st4t3  univ3rsity
+## I am a Web Developer, Python developer, and Lecturer at Ilia State University
 
 <br>
 My name is Davit Datunsahvili, a passionate Front End Developer based in Georgia🇬🇪. 
-My expertise lies in coding, open source technologies, and the web platform.
+My expertise lies in coding, open-source technologies, and the web platform.
 
 
 
-Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, 
-grow as a developer and support other open source projects. Also I enjoy making programming videos on Youtube.
+Aside from my job, I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, 
+grow as a developer, and support other open-source projects. Also, I enjoy making programming videos on YouTube.
 
-In my free time you can find me at billiards club 🎱
+In my free time, you can find me at the billiards club 🎱
 
 ## contact me:
 
@@ -53,9 +53,9 @@ In my free time you can find me at billiards club 🎱
     *  Seaborn
     *  Matplotlib
     *  Selenium
-    *  beautifulsoup
+    *  beautiful soup
     
-* 🖼️ Wordpress
+* 🖼️ WordPress
     * Elementor
     * wp-bakery
     * Contact Form 7
@@ -80,6 +80,6 @@ In my free time you can find me at billiards club 🎱
         
 ## Work:
 - 🔭 I’m currently working as a Front  end developer 
-- 🌱 I’m currently learning Vue JS framework 
+- 🌱 I’m currently learning the Vue JS framework 
 
 
