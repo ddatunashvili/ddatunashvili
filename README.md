@@ -9,7 +9,7 @@ grow as a developer, and support other open-source projects. Also, I enjoy makin
 
 In my free time, you can find me at the billiards club 🎱
 
-## contact me:
+## Social Media:
 
 
 
@@ -19,23 +19,24 @@ In my free time, you can find me at the billiards club 🎱
 <a href="https://instagram.com/ddatunashvilii">
    <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="35px"/>
 </a>
+<a href="https://www.facebook.com/ddatunashvilii">
+   <img align="left" src="https://i.imgur.com/YbokdI0.png" alt="Yu Shi | Instagram" width="35px"/>
+</a>
 
 
 <br><br>
-## Discord Server and YouTube channel
+## Community Platforms
 <a href="https://discord.gg/RxCPTMVy8Z">
    <img align="left" width="41px" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/>
 </a>
 <a href="https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ">
    <img align="left" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png"/>
 </a>
-<a href="https://www.facebook.com/ddatunashvilii">
-   <img align="left" width="41px"  src="https://i.imgur.com/YbokdI0.png"/>
-</a>
+
 <br>
 <br>
 
-## stats
+## Developer Statistics
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&layout=compact)](https://github.com/yushi1007) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&show_icons=true&theme=radical) 
 
@@ -46,7 +47,11 @@ In my free time, you can find me at the billiards club 🎱
 
 
 
-## Skills: 
+## My Skills: 
+* 💻 Web and App Development
+   * Vue js
+   * React Native
+
 * 🐍 Python 
     *  flask
     *  Pandas
@@ -55,19 +60,19 @@ In my free time, you can find me at the billiards club 🎱
     *  Matplotlib
     *  Selenium
     *  beautiful soup
+    *  discord
     
 * 🖼️ WordPress
     * Elementor
-    * wp-bakery
-    * Contact Form 7
-    * Jetpack
+    * Bakery
+    * PayPal
+    * Yoast Seo
     * Google Analytics
-    * UpdraftPlus
+    * Backups
     * SEMRush
-    * LiveChat
-    * WP Mail SMTP
+    * CRM
     
-* 💻 Vue js, React Native jquery
+
 * 🗃️ Git
 * 🎨 Photoshop
 * 🖌️ Inkscape   
