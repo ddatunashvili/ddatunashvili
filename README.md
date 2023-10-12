@@ -29,6 +29,9 @@ In my free time, you can find me at the billiards club 🎱
 <a href="https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ">
    <img align="left" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png"/>
 </a>
+<a href="https://www.facebook.com/ddatunashvilii">
+   <img align="left" width="41px"  src="https://i.imgur.com/YbokdI0.png"/>
+</a>
 <br>
 <br>
 
