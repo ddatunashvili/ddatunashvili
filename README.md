@@ -48,44 +48,35 @@ In my free time, you can find me at the billiards club 🎱
 
 
 ## My Skills: 
-* 💻 Web and App Development
-   * Vue js
-   * React Native
-
-* 🐍 Python 
-    *  flask
-    *  Pandas
-    *  Numpy
-    *  Seaborn
-    *  Matplotlib
-    *  Selenium
-    *  beautiful soup
-    *  discord
-    
-* 🖼️ WordPress
-    * Elementor
-    * Bakery
-    * PayPal
-    * Yoast Seo
-    * Google Analytics
-    * Backups
-    * SEMRush
-    * CRM
-    
-
-* 🗃️ Git
-* 🎨 Photoshop
-* 🖌️ Inkscape   
-* 🌈 Figma
-* 🖖 Canva   
-
-
-
-    
-
-        
-## Work:
-- 🔭 I’m currently working as a Front  end developer 
-- 🌱 I’m currently learning the Vue JS framework 
+   * 💻 Web and App Development
+      * Vue js
+      * React Native
+   
+   * 🐍 Python 
+       *  flask
+       *  Pandas
+       *  Numpy
+       *  Seaborn
+       *  Matplotlib
+       *  Selenium
+       *  beautiful soup
+       *  discord
+       
+   * 🖼️ WordPress
+       * Elementor
+       * Bakery
+       * PayPal
+       * Yoast Seo
+       * Google Analytics
+       * Backups
+       * SEMRush
+       * CRM
+       
+   
+   * 🗃️ Git
+   * 🎨 Photoshop
+   * 🖌️ Inkscape   
+   * 🌈 Figma
+   * 🖖 Canva   
 
 
