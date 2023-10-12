@@ -66,7 +66,7 @@ In my free time you can find me at billiards club 🎱
     * LiveChat
     * WP Mail SMTP
     
-* 💻 HTML , CSS , JS , jquery
+* 💻 Vue js, React Native jquery
 * 🗃️ Git
 * 🎨 Photoshop
 * 🖌️ Inkscape   
@@ -79,7 +79,7 @@ In my free time you can find me at billiards club 🎱
 
         
 ## Work:
-- 🔭 I’m currently working as a Front  end developer at Faroutsolutions
-- 🌱 I’m currently learning react js framework 
+- 🔭 I’m currently working as a Front  end developer 
+- 🌱 I’m currently learning Vue JS framework 
 
 
