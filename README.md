@@ -3,9 +3,7 @@
 <br>
 My name is Davit Datunsahvili, a passionate Front End Developer based in Georgia🇬🇪. 
 My expertise lies in coding, open-source technologies, and the web platform.
-
-
-
+<br><br>
 Aside from my job, I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, 
 grow as a developer, and support other open-source projects. Also, I enjoy making programming videos on YouTube.
 
