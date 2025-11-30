@@ -1,83 +1,68 @@
-## I am a Web Developer, Python developer, and Lecturer at Ilia State University
+# David Datunashvili👋
 
-<br>
-My name is Davit Datunsahvili, a passionate Front End Developer based in Georgia🇬🇪. 
-My expertise lies in coding, open-source technologies, and the web platform.
-<br><br>
-Aside from my job, I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, 
-grow as a developer, and support other open-source projects. Also, I enjoy making programming videos on YouTube.
+Full Stack Web Developer • Python Developer • Lecturer at Ilia State University
 
-In my free time, you can find me at the billiards club 🎱
+---
 
-## Social Media:
+## Skills
 
+```mermaid
+graph TD
+    MERN --> MERN1[MongoDB] 
+    MERN --> MERN2[Express.js]
+    MERN --> MERN3[React.js]
+    MERN --> MERN4[Node.js]
 
-
-<a href="https://www.linkedin.com/in/ddatunashvili/">
-   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/>
-</a>
-<a href="https://instagram.com/ddatunashvilii">
-   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="35px"/>
-</a>
-<a href="https://www.facebook.com/ddatunashvilii">
-   <img align="left" src="https://i.imgur.com/YbokdI0.png" alt="Yu Shi | Instagram" width="35px"/>
-</a>
-
-
-<br><br>
-## Community Platforms
-<a href="https://discord.gg/RxCPTMVy8Z">
-   <img align="left" width="41px" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png"/>
-</a>
-<a href="https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ">
-   <img align="left" width="41px"  src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png"/>
-</a>
-
-<br>
-<br>
-
-## Developer Statistics
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&layout=compact)](https://github.com/yushi1007) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddatunashvili&show_icons=true&theme=radical) 
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6&show=vue&theme=radical&exclude_repo=Windows_App) 
-
-
- <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddatunashvili&langs_count=6%hide=notebook&show=vue&theme=radical)   -->
+    MEVN --> MEVN1[MongoDB] 
+    MEVN --> MEVN2[Express.js]
+    MEVN --> MEVN3[Vue.js]
+    MEVN --> MEVN4[Node.js]
+    
+    Python --> Python1[Flask]
+    Python --> Python2[Web Scraping & Automation]
+    Python --> Python3[Pandas & NumPy]
+    Python --> Python4[Data Visualization]
 
 
 
-## My Skills: 
-   * 💻 Web and App Development
-      * Vue js
-      * React Native
-   
-   * 🐍 Python 
-       *  flask
-       *  Pandas
-       *  Numpy
-       *  Seaborn
-       *  Matplotlib
-       *  Selenium
-       *  beautiful soup
-       *  discord
-       
-   * 🖼️ WordPress
-       * Elementor
-       * Bakery
-       * PayPal
-       * Yoast Seo
-       * Google Analytics
-       * Backups
-       * SEMRush
-       * CRM
-       
-   
-   * 🗃️ Git
-   * 🎨 Photoshop
-   * 🖌️ Inkscape   
-   * 🌈 Figma
-   * 🖖 Canva   
 
+```
 
+---
+
+## Social Media
+
+[LinkedIn](https://www.linkedin.com/in/ddatunashvili/) • [Instagram](https://instagram.com/ddatunashvilii) • [Facebook](https://www.facebook.com/ddatunashvilii)
+
+## Community
+
+[Discord](https://discord.gg/4nYEVunyWv) • [YouTube](https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ)
+
+---
+
+## GitHub Stats
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ddatunashvili?cardType=github&theme=midnight-purple&preferLogin=false)](https://git.io/awesome-stats-card)
+
+---
+
+## Projects
+
+* **RENODE** – PHP + Next.js + Go
+* **DISCORDGE** – Vue + Express.js
+* **MOVIX.GE** – React + Express.js
+* **Proxy Server** – Flask
+
+---
+
+## Work & Teaching
+
+* **CEO & Founder – RE:NODE** (2021–Now)
+* **Web Developer – STARMAN AGENCY** (2021–2023)
+* **Invited Lecturer – Ilia State University** (2022–Now)
+
+---
+
+## Contact
+
+**Email:** [davitidatunashvili98@gmail.com](mailto:davitidatunashvili98@gmail.com)
