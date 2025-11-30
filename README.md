@@ -5,29 +5,7 @@ Full Stack Web Developer • Python Developer • Lecturer at Ilia State Univers
 ---
 
 ## Skills
-
-```mermaid
-graph TD
-    MERN --> MERN1[MongoDB] 
-    MERN --> MERN2[Express.js]
-    MERN --> MERN3[React.js]
-    MERN --> MERN4[Node.js]
-
-    MEVN --> MEVN1[MongoDB] 
-    MEVN --> MEVN2[Express.js]
-    MEVN --> MEVN3[Vue.js]
-    MEVN --> MEVN4[Node.js]
-    
-    Python --> Python1[Flask]
-    Python --> Python2[Web Scraping & Automation]
-    Python --> Python3[Pandas & NumPy]
-    Python --> Python4[Data Visualization]
-
-
-
-
-```
-
+![Tech Skills](https://i.imgur.com/glKAdkX.png)
 ---
 
 ## Social Media
