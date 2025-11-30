@@ -1,6 +1,5 @@
-# David Datunashvili👋
 
-Full Stack Web Developer • Python Developer • Lecturer at Ilia State University
+# Full Stack Web Developer • Python Developer • Lecturer at Ilia State University
 
 ---
 
