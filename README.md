@@ -3,8 +3,8 @@
 
 ---
 
-## Skills
-![Tech Skills](https://i.imgur.com/glKAdkX.png)
+## Tech Stack
+![Tech Skills]([https://i.imgur.com/glKAdkX.png](https://i.imgur.com/f7c8Yy0.png))
 ---
 
 ## Social Media
