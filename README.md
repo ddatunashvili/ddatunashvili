@@ -110,11 +110,8 @@ ML recommendation engine • Sub-100ms queries • Token-based streaming • Eve
 
 ---
 
-### Invited Lecturer • Ilia State University • *2022 - Present*
 
-Teaching Distributed Systems • Software Architecture • Web Development
 
----
 
 <div align="center">
 
