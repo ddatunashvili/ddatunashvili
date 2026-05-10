@@ -3,9 +3,6 @@
 
 ---
 
-## Tech Stack
-<img src="https://i.imgur.com/f7c8Yy0.png" alt="Tech Skills" style="width:700px;">
-
 
 ## Social Media
 
