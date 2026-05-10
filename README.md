@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/4nYEVunyWv)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ)
 
-Tbilisi, Georgia • +995 598 54 41 66 • contact@datunashvili.com • Lecturer at Ilia State University
+• contact@datunashvili.com • 
 
 </div>
 
