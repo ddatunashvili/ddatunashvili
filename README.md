@@ -68,7 +68,7 @@ HLS streaming infrastructure • Real-time audio synchronization • Multi-langu
 
 ---
 
-### MOVIX ONE — Netflix-Clone Streaming Platform
+### MOVIX.ONE — Netflix-Clone Streaming Platform
 ML recommendation engine • Sub-100ms queries • Token-based streaming • Event-driven CMS
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
