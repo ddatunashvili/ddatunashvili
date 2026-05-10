@@ -10,7 +10,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/4nYEVunyWv)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZA10Y495KC6BfHBeW7CXMQ)
 
-• contact@datunashvili.com • 
+contact@datunashvili.com
 
 </div>
 
